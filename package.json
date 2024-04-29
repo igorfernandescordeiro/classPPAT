@@ -1,0 +1,14 @@
+{
+  "name": "programacao-para-automacao-de-testes",
+  "version": "1.0.0",
+  "description": "Prova para materia Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Igor Cordeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
