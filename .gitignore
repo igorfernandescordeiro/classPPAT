@@ -1,0 +1,30 @@
+# Arquivos de dependências instaladas
+/node_modules
+
+# Arquivos gerados durante a execução do código
+/.pnp
+.pnp.js
+/build
+/dist
+/.sass-cache
+.env
+
+# Arquivos de log e de erro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de build e cache
+/.next
+/.nuxt
+/cache
+/public
+
+# Arquivos de editor específicos
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
